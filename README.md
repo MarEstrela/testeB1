@@ -15,6 +15,8 @@ node gerardados
 
 ## 📝 Notes
 
+- arquivo excell com cenários, planos e criterios.
+
 -  Objetivo: Gerar nomes e numeros aleatórios para o primeiro desafio.
 Arquivos existentes são atualizados.
 -  APIS
