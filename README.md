@@ -9,7 +9,7 @@
 ## 🚀 How to use
 
 ```node
-programa para utiizado apis para gerar massa de dados
+programa para utiizandoo apis para gerar massa de dados
 node gerardados
 ```
 
